@@ -1,0 +1,9 @@
+* text=auto
+*.txt text eol=crlf
+*.json text eol=crlf
+*.exe binary
+*.dll binary
+*.pdb binary
+*.lnk binary
+*.ico binary
+*.png binary

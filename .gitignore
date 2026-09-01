@@ -1,0 +1,8 @@
+Portable/Data/
+Portable/Logs/
+*.lnk
+**/*.pdb
+**/*.tmp
+**/*.log
+**/*staging*/
+**/*rollback*/
