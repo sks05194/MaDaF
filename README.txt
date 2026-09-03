@@ -1,4 +1,4 @@
-MaDaF 0.22.1
+MaDaF 0.23.1
 
 MaDaF는 Windows 바탕화면에 Markdown 메모를 배치하는 포터블 프로그램입니다.
 
