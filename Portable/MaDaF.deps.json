@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {},
     ".NETCoreApp,Version=v10.0/win-x64": {
-      "MaDaF/0.23.1": {
+      "MaDaF/0.23.2": {
         "runtime": {
           "MaDaF.dll": {}
         }
@@ -15,7 +15,7 @@
     }
   },
   "libraries": {
-    "MaDaF/0.23.1": {
+    "MaDaF/0.23.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
