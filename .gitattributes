@@ -7,3 +7,5 @@
 *.lnk binary
 *.ico binary
 *.png binary
+# Preserve the bundled runtime's upstream license/notices bytes and whitespace.
+Portable/Licenses/** -text -whitespace
