@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {},
     ".NETCoreApp,Version=v10.0/win-x64": {
-      "MaDaF/0.28.0": {
+      "MaDaF/0.29.0": {
         "dependencies": {
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "10.0.9",
           "runtimepack.Microsoft.WindowsDesktop.App.Runtime.win-x64": "10.0.9"
@@ -999,7 +999,7 @@
     }
   },
   "libraries": {
-    "MaDaF/0.28.0": {
+    "MaDaF/0.29.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
