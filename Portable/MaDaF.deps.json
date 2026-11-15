@@ -7,8 +7,9 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {},
     ".NETCoreApp,Version=v10.0/win-x64": {
-      "MaDaF/0.39.6": {
+      "MaDaF/0.40.0": {
         "dependencies": {
+          "AvalonEdit": "6.3.1.120",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "10.0.9",
           "runtimepack.Microsoft.WindowsDesktop.App.Runtime.win-x64": "10.0.9"
         },
@@ -995,11 +996,19 @@
             "fileVersion": "10.0.926.27113"
           }
         }
+      },
+      "AvalonEdit/6.3.1.120": {
+        "runtime": {
+          "lib/net8.0-windows7.0/ICSharpCode.AvalonEdit.dll": {
+            "assemblyVersion": "6.3.1.120",
+            "fileVersion": "6.3.1.120"
+          }
+        }
       }
     }
   },
   "libraries": {
-    "MaDaF/0.39.6": {
+    "MaDaF/0.40.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1013,6 +1022,13 @@
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
+    },
+    "AvalonEdit/6.3.1.120": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6ASBKPzAg64BLDlFOJo4Ypr1sA/6hB5+TfHLJaZYUSTE0jgxvKlVqKeo/ISTG9qEMxu604qUu6BGugmJkfdrNw==",
+      "path": "avalonedit/6.3.1.120",
+      "hashPath": "avalonedit.6.3.1.120.nupkg.sha512"
     }
   },
   "runtimes": {
