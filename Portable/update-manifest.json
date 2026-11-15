@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "0.40.0",
+  "version": "0.40.1",
   "runtime": "win-x64",
   "files": [
     {
@@ -681,17 +681,17 @@
     {
       "path": "MaDaF.deps.json",
       "size": 37594,
-      "sha256": "97972E41DF5549209E2FC8F103D63DB5D3E6B0857120EB2EA126AF8D6EF0FE5C"
+      "sha256": "0D1B4238570A79DF3B5CAC5C207CB04977F58682ED3182BB56EC21D5F77AFC73"
     },
     {
       "path": "MaDaF.dll",
-      "size": 1156096,
-      "sha256": "FC710F17D9A4E07FC2043FA077C3BDA4270D13CB6F8AC9B9D79345B5A10D037C"
+      "size": 1158144,
+      "sha256": "269F2649EB3A801223348732DD288D094E201375FBEEDCAD7CA9132E9E4B7132"
     },
     {
       "path": "MaDaF.exe",
       "size": 251392,
-      "sha256": "BCA172F194F80FB079BA197C97D9E89B1822C36D70F570CF807BD209AD49BDD4"
+      "sha256": "6E252A4779736C80AB33503106A994E2827C32A2D15B595B2F4BC9B30C5EE18D"
     },
     {
       "path": "MaDaF.runtimeconfig.json",
